@@ -1,4 +1,4 @@
-# Delete WAZUH index 
+# Delete WAZUH raw logs
 - How to use
   - 1. Copy cleanup_wazuh_logs.sh to /var/ossec/logs/alerts
     2. chmod +x cleanup_wazuh_logs.sh
